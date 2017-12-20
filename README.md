@@ -3,7 +3,7 @@
 For many years, we can use `Siri` to accomplish some basic tasks on iPhones. This project aims to develop a similar assistant based on the vision of an iPhone -- what the camera sees in realtime, instead of voice input. Currently it supports one demo usage: call someother app on your iPhone based on the camera image input, and can recogonize 3 categories of images: `bus stop`, `barcode` and `receipt`. For example, when the camera 'sees' a bus stop, it will open another app called `nj-bus` to check the next bus schedule for you at that specific bus stop. If it 'sees' a barcode, it will open `Amazon App` to compare price. This vision assistant app acts just as a central gateway to delegate tasks to other apps, which makes this assistant easier for adding other 3rd party support. This project includes the `vision assistant` app based on Tensorflow, and `nj-bus` app based on Google Clould API to check the bus stop information.
 
 
-![image](https://www.dropbox.com/s/vocuve73xlooggs/Vision%20Assistant%20App.png?dl=1)
+![image](Vision%20Assistant%20App.png)
 
 
 ## Getting Started
