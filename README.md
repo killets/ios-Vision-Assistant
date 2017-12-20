@@ -60,7 +60,7 @@ cp ~/graphs/inception5h/* tensorflow/contrib/ios_examples/simple/data/
 Load the Xcode project inside the `cloud-vision-master/ios` subfolder, and follow the same steps as above to run the nj-bus app.
 
 #### Retrain your own model
-  Follow [this guid]((https://www.tensorflow.org/tutorials/image_retraining)) to retrain your own model for new categories
+  Follow [this guid](https://www.tensorflow.org/tutorials/image_retraining) to retrain your own model for new categories
 
 ## Running the tests
 
