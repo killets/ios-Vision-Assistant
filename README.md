@@ -5,6 +5,9 @@ For many years, we can use `Siri` to accomplish some basic tasks on iPhones. Thi
 
 ![image](Vision%20Assistant%20App.png)
 
+### See the demo on Youtube:
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/EqpXV28tqCg/0.jpg)](http://www.youtube.com/watch?v=EqpXV28tqCg)
+
 
 ## Getting Started
 
